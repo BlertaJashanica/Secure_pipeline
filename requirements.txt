@@ -1,4 +1,0 @@
-setuptools>=65.5.1
-flask==1.0.0
-requests==2.18.4
-
